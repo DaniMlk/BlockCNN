@@ -33,3 +33,4 @@ python main.py
 ## Results
 In the below images you can see the output of our network, the input image and the original of it. The result of it shows an amazing fact that our network can enhance the quality of the image significantly.
 
+![alt text](https://github.com/DaniMlk/BlockCNN/blob/master/Result.png)
