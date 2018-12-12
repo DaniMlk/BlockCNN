@@ -21,3 +21,9 @@ conda env create -f environment.yml
 source activate pytorch
 # [Option 2] Install everything globaly.
 ```
+## Using
+We used Pascal_VOC 2012 to train our network. To run the code firstly you should put your dataset in the root path which mentioned in the main.py
+
+```
+python main.py
+```
