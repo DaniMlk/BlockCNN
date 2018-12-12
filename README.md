@@ -31,6 +31,12 @@ python main.py
 ```
 
 ## Results
-In the below images you can see the output of our network, the input image and the original of it. The result of it shows an amazing fact that our network can enhance the quality of the image significantly.
+In the below image you can see the output of our network, the input image and the original of it. The result of it shows an amazing fact that our network can enhance the quality of the image significantly.
 
 ![alt text](https://github.com/DaniMlk/BlockCNN/blob/master/Result.png)
+
+In the below image you can compassion our output with other states of the art compression methods which shows that our network works in a better way.
+![alt text](https://github.com/DaniMlk/BlockCNN/blob/master/Comprasion.png)
+
+## TODO List:
+For now we are working on this project to improve our results. we got promising results and we plan to publish our new algoirthm for ICCV 2019. You will shoke with our results :fire:
