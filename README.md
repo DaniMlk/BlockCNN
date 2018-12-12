@@ -4,7 +4,7 @@ BlockCNN: A Deep Network for Artifact Removal and Image Compression
 ![alt text](https://github.com/DaniMlk/BlockCNN/blob/master/Snapshot.png)
 
 This repository containing the implementation of BlockCNN which published in CVPR Workshop 2018. The implementation is in Pytorch.
-Original paper can find in this link http://openaccess.thecvf.com/content_cvpr_2018_workshops/w50/html/Maleki_BlockCNN_A_Deep_CVPR_2018_paper.html
+Original paper can be found in this link http://openaccess.thecvf.com/content_cvpr_2018_workshops/w50/html/Maleki_BlockCNN_A_Deep_CVPR_2018_paper.html
 
 ## Requirments:
 - Python 3.6
@@ -29,3 +29,7 @@ We used Pascal_VOC 2012 to train our network. To run the code firstly you should
 ```
 python main.py
 ```
+
+## Results
+In the below images you can see the output of our network, the input image and the original of it. The result of it shows an amazing fact that our network can enhance the quality of the image significantly.
+
