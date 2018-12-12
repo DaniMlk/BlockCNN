@@ -13,7 +13,11 @@ Original paper can find in this link http://openaccess.thecvf.com/content_cvpr_2
 - Matplotlib
 
 ## Instalation:
-,,,
+```
 git clone https://github.com/DaniMlk/BlockCNN.git
-
-,,,
+cd BlockCNN
+# [Option 1] To replicate the conda environment:
+conda env create -f environment.yml
+source activate pytorch
+# [Option 2] Install everything globaly.
+```
