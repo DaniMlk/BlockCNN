@@ -9,7 +9,7 @@ Original paper can be found in this link http://openaccess.thecvf.com/content_cv
 
 ## Requirments:
 - Python 3.6
-- Pytorhc 0.3
+- Pytorch 0.3
 - Torchvision
 - Opencv
 - Tensorflow 1.3
