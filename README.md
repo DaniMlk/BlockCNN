@@ -43,3 +43,12 @@ In the below image you can compassion our output with other states of the art co
 
 ## TODO List:
 For now we are working on this project to improve our results. we got promising results and we plan to publish our new algoirthm for ICCV 2019. You will shoke with our results :fire:
+
+## Citing
+@InProceedings{Maleki_2018_CVPR_Workshops,
+author = {Maleki, Danial and Nadalian, Soheila and Mahdi Derakhshani, Mohammad and Amin Sadeghi, Mohammad},
+title = {BlockCNN: A Deep Network for Artifact Removal and Image Compression},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+month = {June},
+year = {2018}
+}
